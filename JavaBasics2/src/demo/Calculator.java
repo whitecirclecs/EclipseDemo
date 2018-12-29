@@ -5,6 +5,7 @@ public class Calculator {
 	public Calculator() {
 	// Today is Friday//
 	// Today is Saturday
+		//happy new year
 	}
 
 	public int add(int a, int b) { // a and b are called as Formal Parameters
