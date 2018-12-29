@@ -3,6 +3,7 @@ package demo;
 public class Car {
 
 	public static void main(String[] args) {
+		//Today is Saturday
 		Car Mercedes = new Car(); //Mercedes is an object of Class Car
 		
 		String color = "Silver";
