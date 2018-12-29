@@ -1,15 +1,16 @@
 package demo;
 
 public class Calculator {
-	
+
 	public Calculator() {
-	// Today is Friday//
-	// Today is Saturday
-		//happy new year
+		// Today is Friday//
+		// Today is Saturday
+		// happy new year
+		// Tomorrow it will be Sunday
 	}
 
 	public int add(int a, int b) { // a and b are called as Formal Parameters
-		return(a+b);
+		return (a + b);
 	}
 
 	public void subtract(int a, int b) {
@@ -26,8 +27,8 @@ public class Calculator {
 
 	public static void main(String[] args) {
 		Calculator basicCal = new Calculator();
-		 // 10 and 20 are called as Actual Parameters
-		
+		// 10 and 20 are called as Actual Parameters
+
 		System.out.println(basicCal.add(10, 20));
 		basicCal.subtract(100, 20);
 		basicCal.multiply(16, 4);
