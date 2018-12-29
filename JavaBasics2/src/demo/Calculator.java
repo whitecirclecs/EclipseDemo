@@ -7,6 +7,7 @@ public class Calculator {
 		// Today is Saturday
 		// happy new year
 		// Tomorrow it will be Sunday
+		// Yesterday was Thursday
 	}
 
 	public int add(int a, int b) { // a and b are called as Formal Parameters
